@@ -31,7 +31,7 @@ def main():
         # e fechar programa
     # end if
 
-    imgCenaOriginal = cv2.imread("imagens/f15.jpg")
+    imgCenaOriginal = cv2.imread("imagens/f15.png")
     # abrir imagem
 
     if imgCenaOriginal is None:
